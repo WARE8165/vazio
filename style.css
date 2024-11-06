@@ -1,0 +1,130 @@
+.body {
+    background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
+}
+
+.titulo1{
+  color: gray;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 1px 1px 0 rebeccapurple;
+  font-style: italic;
+  letter-spacing: 10px;
+}
+
+.linha1{
+  color: white;
+  width: 60%;
+  position: relative;
+  top: -29px;
+}
+
+.linha2{
+  border: none;
+  height: 1px;
+  background-color: gray;
+  box-shadow: 1px 1px 0 darkred;
+  margin: 20px 0;
+}
+
+.autor1{
+  color: red;
+  font-size: 10px;
+  text-align: center;
+  position: relative;
+  top: -1px;
+  left: -148px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: darkred;
+  position: relative;
+  left: 2px;
+}
+
+.texto1{
+  color: gray;
+  font-size: 18px;
+  background-color: #404040AB;
+  text-shadow: 1px 1px 0 rebeccapurple;
+  border-radius: 10px;
+  bottom: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  padding: 2px;
+  letter-spacing: 3px;
+  font-style: italic;
+  position: relative;
+  left: 5px;
+  top: 0px;
+}
+
+.detalhes{
+  color: gray;
+  font-size: 20px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 4px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: gray;
+  position: relative;
+  left: 10px;
+  font-style: italic;
+  letter-spacing: 5px;
+}
+
+.texto2{
+  color: gray;
+  text-shadow: 1px 1px 0 rebeccapurple;
+  font-size: 20px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  bottom: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  padding: 2px;
+  letter-spacing: 3px;
+  font-style: italic;
+  position: relative;
+  left: -21px;
+}
+
+.span{
+  color: red;
+}
+
+.data1{
+  color: red;
+  font-size: 11px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 4px;
+  display: inline-block;
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkred;
+  position: relative;
+  top: -14px;
+  font-style: italic;
+  letter-spacing: 2px;
+}
+
+.detalhes2{
+  color: red;
+  font-size: 11px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 4px;
+  display: inline-block;
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkred;
+  position: relative;
+  top: -8px;
+  font-style: italic;
+  letter-spacing: 2px;
+}
