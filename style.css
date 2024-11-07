@@ -1,5 +1,5 @@
 .body {
-    background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
+      background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
 }
 
 .titulo1{
@@ -127,4 +127,33 @@
   top: -8px;
   font-style: italic;
   letter-spacing: 2px;
+}
+
+.secret{
+  font-size: 1px;
+  color: red;
+  background-color: black;
+  border-radius: 12px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkred;
+  position: relative;
+  left: 96%;
+  top: -20px;
+}
+
+.textsecret{
+  color: mediumpurple;
+  text-shadow: 1px 1px 0 darkred;
+  font-style: italic;
+  letter-spacing: 2px;
+  font-size: 15px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
 }
